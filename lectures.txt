@@ -1,0 +1,9 @@
+AI
+htm
+c++
+AI
+Python
+& "C:\Users\مهيب احمد\python.13.14.6\python.exe" "c:/Users/مهيب احمد/Desktop/AI_Study_Assisstant/mani.py"
+AI
+Python
+Machine Learning

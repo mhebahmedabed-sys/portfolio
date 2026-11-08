@@ -1,0 +1,3 @@
+Pipelining does NOTimproveLatency.@_ThroughputAmountofworkdoneperunitoftime. PipeliningdrasticallyimprovesThroughput.WhenthePipelineBreaks.
+
+1instructiontakes5cycles.Pipelined: 1instructionfinishesevery1|Speedup:500/104=4.8xFastercycle(afterfill).NewTime:100+4(fill)=104Cycles(Idealspeedupis5x, butoverheadreducesit).Amdahl'sLaw:“Thetheoreticalspeedupisalwayslimitedbycheserialpartofthetask(thefilltime).

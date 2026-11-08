@@ -1,0 +1,3 @@
+Pipelining does NOTimproveLatency.SRThroughputAmountofworkdoneperunitoftime. In reality, oneinstruction mightblock the next.
+
+Pipelined:|instructionfinishesevery1|Speedup:500/104=4.8xFastercycle(afterfill).(Idealspeedupis5x,butoverheadreducesit).Amdahl'sLaw: ‘Thetheoreticalspeedupisalwayslimitedbycheserialpartofthetask(thefillme).
